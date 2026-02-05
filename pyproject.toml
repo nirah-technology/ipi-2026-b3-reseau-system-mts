@@ -8,6 +8,7 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "sounddevice (>=0.5.5,<0.6.0)"
     
 ]
 
